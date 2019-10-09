@@ -1,0 +1,1 @@
+{"jobID":"986df51f-2cf8-d2b1-8f69-88a621220222","spec":{"type":"policy","cause":{"Message":"","User":"Ivana Vilimonovic \u003civana.vilimonovic@flybits.com\u003e"},"spec":{"demo:deployment/podinfo":{"add":{"tag_all":"glob:1.4.*"},"remove":{}}}},"result":null}
